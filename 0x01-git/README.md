@@ -1,1 +1,1 @@
-This is my second readme. so cool
+This is my second readme.
